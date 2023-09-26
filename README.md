@@ -21,11 +21,11 @@
 
 - 📫 How to reach me **abhijitbarman96@gmail.com**
 
-- 📄 Know about my experiences [Download👈🏻](https://drive.google.com/file/d/19w3QlPiGtkTC6lcw9hGVuUBQoginzpv6/view?usp=sharing)
+- 📄 Know about my experiences [Download👈](https://drive.google.com/file/d/19w3QlPiGtkTC6lcw9hGVuUBQoginzpv6/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/abhijit0barman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abhijit0barman" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abhijit-barman-36a0aa114/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abhijit0barman" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
