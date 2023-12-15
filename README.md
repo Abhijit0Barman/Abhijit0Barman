@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **abhijitbarman96@gmail.com**
 
-- 📄 Know about my experiences [Download👈](https://drive.google.com/u/0/uc?id=1p_7WsyxYBg6AwWdl-CdAz0y_aDxLH25M&export=download)
+- 📄 Resume [Download👈](https://drive.google.com/u/0/uc?id=1p_7WsyxYBg6AwWdl-CdAz0y_aDxLH25M&export=download)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
