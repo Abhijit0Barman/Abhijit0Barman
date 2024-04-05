@@ -51,9 +51,9 @@
 
 
 
-[![](https://github-readme-stats.vercel.app/api?username=Abhijit0Barman&theme=prussian&hide_border=false&include_all_commits=false&count_private=false)](https://github-readme-stats.vercel.app/api?username=Abhijit0Barman&theme=prussian&hide_border=false&include_all_commits=false&count_private=false)
+<!-- [![](https://github-readme-stats.vercel.app/api?username=Abhijit0Barman&theme=prussian&hide_border=false&include_all_commits=false&count_private=false)](https://github-readme-stats.vercel.app/api?username=Abhijit0Barman&theme=prussian&hide_border=false&include_all_commits=false&count_private=false) -->
 
-
+[![](https://github-readme-stats.vercel.app/api?username=Abhijit0Barman&theme=prussian&hide_border=false&include_all_commits=false&count_private=false)]
 
 
 <br/>
